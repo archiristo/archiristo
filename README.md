@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center"> Hey there, I am İris! </h1>
+<p>
+  <i>A developer with a passion in robotics, AI and computer graphics</i>
+  <i>Student at Adana Alparslan Türkeş Science and Technology University, Artificial Intelligence Engineering</i> 
+</p>
 
-<!--
-**archiristo/archiristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I work with  
+- Django, PostgreSQL, Flask
+- Raspberry Pi, Arduino  
+- Python, C++, HTML/CSS, Java 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with me  
+- Email: iriskc27@gmail.com
+
