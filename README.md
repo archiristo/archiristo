@@ -1,3 +1,4 @@
+<div text-align="center">
 <h1 align="center"> Hey there, I am İris! </h1>
 <p>
   <i>A developer with a passion in robotics, AI and computer graphics</i>
@@ -13,4 +14,4 @@
 
 ## 📬 Connect with me  
 - Email: iriskc27@gmail.com
-
+</div>
