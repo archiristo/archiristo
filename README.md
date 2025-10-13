@@ -13,5 +13,5 @@
 - Python, C++, HTML/CSS, Java 
 
 ## 📬 Connect with me  
-- Email: iriskc27@gmail.com
+- Email: archiristo@proton.me
 
