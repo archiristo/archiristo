@@ -10,7 +10,7 @@
 ## 🔧 Technologies I work with  
 - Django, PostgreSQL, Flask
 - Raspberry Pi, Arduino  
-- Python, C++, HTML/CSS, Java 
+- Python, C++, Java, Julia
 
 ## 📬 Connect with me  
 - Email: archiristo@proton.me
