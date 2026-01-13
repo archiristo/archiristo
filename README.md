@@ -28,7 +28,7 @@ I am an **AI Engineering Undergraduate** and **Research Assistant** dedicated to
 ---
 
 ### 📫 Connect with Me
-[LinkedIn][(http://linkedin.com/in/iriskc)]| [Email](mailto:archiristo@proton.me) 
+[LinkedIn](http://linkedin.com/in/iriskc)| [Email](mailto:archiristo@proton.me) 
 
 *"Decoding the cosmos, one line of code at a time."* 🚀✨
 
