@@ -6,7 +6,7 @@ I am an **AI Engineering Undergraduate** and **Research Assistant** dedicated to
 
 ### 🌌 What I'm Orbiting Right Now
 - 🔬 **Current Role:** Undergraduate Research Assistant focusing on [Computer Vision and Graphics].
-- 🎓 **Education:** AI Engineering @ ATU
+- 🎓 **Education:** AI Eng. (BSc) @ ATU - Mathematics (Visiting Student) @ Cukurova Uni.
 
 ---
 
