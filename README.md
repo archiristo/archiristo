@@ -1,12 +1,5 @@
-# 👋 Hi, I'm Iris! | AI Engineering Student & Astrophysics Researcher
-
-I am an **AI Engineering Undergraduate** and **Research Assistant** dedicated to decoding the source code of the universe. My work lives at the intersection of **Symbolic Logic**, **Artificial Intelligence**, and **Nuclear Particle Physics**.
-
----
-
-### 🌌 What I'm Orbiting Right Now
-- 🔬 **Current Role:** Undergraduate Research Assistant focusing on [Computer Vision and Graphics].
-- 🎓 **Education:** AI Eng. (BSc) @ ATU
+# 👋 Hi, I'm İris! 
+I am an **AI Engineering Undergraduate** dedicated to decoding the source code of the universe. My work lives at the intersection of **Symbolic Logic**, **Artificial Intelligence**, and **Nuclear Particle Physics**.
 
 ---
 
