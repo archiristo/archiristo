@@ -1,4 +1,4 @@
-# 👋 Hi, I'm İris! 
+👋 Hi, I'm İris! 
 ---
 ### Tech Stack
 - **Languages:** Python, C, SQL, C++, Julia, Java, Fortran.
